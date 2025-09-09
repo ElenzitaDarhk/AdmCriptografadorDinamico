@@ -1,2 +1,2 @@
 # AdmCriptografadorDinamico
-Frontend para administrar as configurações do Criptografador Dinâmico.
+Frontend React Next.js para administrar as configurações do Criptografador Dinâmico.
