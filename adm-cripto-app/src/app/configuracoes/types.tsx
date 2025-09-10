@@ -1,4 +1,5 @@
 export type ConfigurationType = Configuration
+export type AlgorithmType = Algorithm
 
 export interface Configuration {
   id: number
